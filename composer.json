@@ -1,7 +1,7 @@
 {
     "name": "andresmeireles/sanctum-bootstrap",
     "type": "project",
-    "description": "The Laravel Framework.",
+    "description": "My laravel framework bootstrap with extra packages.",
     "keywords": ["framework", "laravel", "andresmeireles", "bootstrap", "psalm", "phpstan", "ecs"],
     "license": "MIT",
     "require": {
